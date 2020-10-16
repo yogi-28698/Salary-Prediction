@@ -108,6 +108,6 @@ def main():
 
 
 main()
-#if __name__ == "__main()__":
-   # main()
-   # input()
+if __name__ == "__main()__":
+    main()
+    input()
