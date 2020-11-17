@@ -83,7 +83,7 @@ def main():
        print("\nNow You Can Predict Salaries of Employees Using Our Model")
        print("\nEnter Experiences of the Candidates in Years Separated By ,")
 
-       exp = [float(e) for e in input().split(",")]
+       exp = [float(e) for e in input().split(',')]
        ex = []
        for x in exp:
            ex.append([x])
